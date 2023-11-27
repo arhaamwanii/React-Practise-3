@@ -10,7 +10,7 @@ function InputBox({
     amountDiable = false,
     currencyDisable = false,
     className = "",
-    
+
 }) {
    
 
@@ -57,3 +57,5 @@ function InputBox({
 }
 
 export default InputBox;
+
+//arham amin wani it is 
