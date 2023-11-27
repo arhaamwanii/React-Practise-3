@@ -1,4 +1,14 @@
 CHANGING TEXT COLOR 
     "text-white-xxx"
     -tailwind color change
-    
+
+USE-EFFECT 
+    -it getts called when the compnent is mounted
+    -most of the time API calls return us string instead of JSON
+
+
+CUSTOM HOOKS 
+    -they return simple js 
+    -it is a basic function basically
+
+
