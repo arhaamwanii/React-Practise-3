@@ -18,3 +18,4 @@ function useCurrencyinfo(currency) {
 
 export default useCurrencyinfo;
 // comment
+// comment 2
