@@ -1,4 +1,4 @@
-import React from "react";
+import React, {useId} from "react";
 
 function InputBox({
     label,
@@ -64,4 +64,4 @@ export default InputBox;
 //NEED A PERSON
     //WHAT DO YOU WANT IN HIM
         // -   better if he would be NIR
-        // -   should be a programmer --- or should be learing programming
+        // -   should be a programmer --- or should   be learing programming
