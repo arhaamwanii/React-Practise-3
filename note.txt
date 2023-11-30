@@ -11,15 +11,71 @@ CUSTOM HOOKS
     -they return simple js 
     -it is a basic function basically
 
+USEID
+    -it is a very prominent way to use it in a 
 
 
 
 
 
 
-next up i am going to build this same thing myself --- API call and everything but no video tutorial just self analysis
-8-9-10-11
-3 hrs??? 
-damn
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transitioning from REACT to REACT-NATIVE
+
+
+When transitioning from React to React Native, you'll encounter several new concepts and components specific to mobile app development. Here are key areas to focus on:
+
+Native Components:
+    Learn and use components specific to mobile development, like View, Text, Image, etc., which are adapted for mobile environments.
+
+Navigation:
+    Understand and implement mobile navigation patterns using libraries like React Navigation.
+
+Styling:
+    Adapt to mobile styling approaches using Flexbox and styles tailored for smaller screens.
+
+Platform Differences:
+    Be aware of platform-specific code and styles for Android and iOS.
+
+
+Device APIs:
+    Explore and use device-specific functionalities like camera, geolocation, etc., using React Native APIs.
+
+Performance Optimization:
+    Consider mobile performance optimization techniques due to resource constraints on mobile devices.
+
+Deployment:
+    Learn how to deploy and publish apps on app stores for both iOS and Android.
+
+Debugging:
+    Familiarize yourself with debugging tools and practices for mobile development.
+
+React Native CLI and Expo:
+    Understand the differences between using React Native CLI and Expo for project setup and development.
+
+Third-Party Libraries:
+    Identify and integrate mobile-specific libraries for functionalities not covered by React.
 
