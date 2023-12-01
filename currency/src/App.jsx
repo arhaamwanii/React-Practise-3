@@ -20,4 +20,5 @@ export default App
 //30 hour work day
 //principles of sucess -- passion for beauty 
 //care for detail 
+//he spents two hours after buying twitter he spent time s
 
