@@ -19,5 +19,5 @@ export default App
 //comment - safe no tution 
 //30 hour work day
 //principles of sucess -- passion for beauty 
-//g
+//care for detail 
 
