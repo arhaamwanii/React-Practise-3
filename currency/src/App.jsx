@@ -21,4 +21,6 @@ export default App
 //principles of sucess -- passion for beauty 
 //care for detail 
 //he spents two hours after buying twitter he spent time s
+//see what goes once you fail then, fix it 
+//
 
